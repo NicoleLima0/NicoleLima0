@@ -25,6 +25,10 @@
      <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    </a> &nbsp;&nbsp;
 </p>
+   <a>
+     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   </a> &nbsp;&nbsp;
+</p>
 
  ## Contatos :iphone:
   
