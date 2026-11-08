@@ -4,7 +4,7 @@
   <br /><br />
 
   <a href="https://nicolelima.tech">
-    <img src="https://img.shields.io/badge/Visite_meu_site-nicolelima.tech-C08CFF.svg?style=for-the-badge&labelColor=2A0D45" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Visite_meu_site-8A3FFC?style=for-the-badge" alt="Portfólio" />
   </a>
 </div>
 
